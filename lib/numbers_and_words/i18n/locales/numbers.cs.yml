@@ -9,44 +9,44 @@ cs:
     thousands:
       one: tisíc
       few: tisíce
-      other: tisíc
+      many: tisíc
     millions:
       one: milión
       few: milióny
-      other: miliónů
+      many: miliónů
     billions:
       one: miliard
       few: miliardy
-      other: miliard
+      many: miliard
     trillions:
       one: bilion
       few: biliony
-      other: bilionů
+      many: bilionů
     quadrillions:
       one: kvadrilion
       few: kvadriliony
-      other: kvadrilionů
+      many: kvadrilionů
     quintillion:
       one: quintilion
       few: kvadriliony
-      other: kvadrilionů
+      many: kvadrilionů
     sextillions:
       one: sekstilijon
       few: sekstilijony
-      other: sekstilijonů
+      many: sekstilijonů
     septillions:
       one: septilijon
       few: septilijony
-      other: septilijonů
+      many: septilijonů
     octillions:
       one: oktilijon
       few: oktilijony
-      other: oktilijonů
+      many: oktilijonů
     nonillions:
       one: nonilijon
       few: nonilijony
-      other: nonilijonů
+      many: nonilijonů
     decillions:
       one: decilijon
       few: decilijony
-      other: decilijonů
+      many: decilijonů
