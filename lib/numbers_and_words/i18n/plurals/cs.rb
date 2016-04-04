@@ -5,8 +5,7 @@ module NumbersAndWords
         RULE = lambda do |n|
            one_conditions(n) ?
             :one : few_conditions(n) ?
-              :few : many_conditions(n) ?
-                :many : :other
+              :few : :other
         end
 
         extend self
